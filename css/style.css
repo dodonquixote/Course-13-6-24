@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: space-around; /* Menjajarkan item-item flex secara horizontal */
+}
+
+h1 {
+    color: crimson;
+    margin: 0;
+    border: 1px solid;
+}
+
+article p, section p, footer p {
+    color: aquamarine;
+}
